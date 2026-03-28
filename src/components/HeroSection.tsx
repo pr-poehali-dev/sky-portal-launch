@@ -66,7 +66,7 @@ export default function HeroSection() {
             >
               <div className="space-y-5">
                 <p className="text-4xl font-light text-white md:text-5xl lg:text-6xl leading-tight">
-                  Ваша типография
+                  ПечатниковЪ
                 </p>
                 <p className="text-xl font-light text-white/75 md:text-2xl">
                   Печать, которая говорит за вас
